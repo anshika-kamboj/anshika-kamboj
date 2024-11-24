@@ -21,37 +21,30 @@ I am always learning and exploring new ways to innovate and push boundaries in t
 
 ---
 
-## Projects
-
-### Document-Based Question Answering
-Currently, I am working on a project that leverages NLP models to provide answers based on documents.
-
-[View Project](https://github.com/username/project-link)
 
 ### LeetCode Solutions
 I enjoy solving algorithmic problems to improve my coding skills.
 
-[Check out my LeetCode profile](https://leetcode.com/your-username/)
+[Check out my LeetCode profile](https://leetcode.com/anshika-kamboj/)
 
 ---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshika-kamboj&show_icons=true&theme=dark&count_private=true)
 
 ---
 
 ## Contact Me
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub Pages**: [Visit My Portfolio](https://username.github.io/Anshika-Profile/)
+- **Email**: [your-email@example.com](mailto:your-kambojanshika30@gmail.com)
+- **GitHub Pages**: [Visit My Portfolio](https://anshika-kamboj.github.io/Anshika-Profile/)
 
 ---
 
 ## Let's Connect
 
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter**: [@your-twitter](https://twitter.com/your-twitter)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/anshika-kamboj)
 
 ---
 
