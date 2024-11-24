@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-![Banner Image](https://via.placeholder.com/1200x400/1a1a1a/ffffff/?text=Welcome+to+Anshika's+Profile)
+![Banner Image](https://github.com/anshika-kamboj/anshika-kamboj/blob/main/Screenshot%202024-11-24%20225452.png)
 
 ---
 
