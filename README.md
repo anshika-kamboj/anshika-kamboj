@@ -25,7 +25,7 @@ I am always learning and exploring new ways to innovate and push boundaries in t
 ### LeetCode Solutions
 I enjoy solving algorithmic problems to improve my coding skills.
 
-[Check out my LeetCode profile](https://leetcode.com/anshika-kamboj/)
+[LeetCode](https://leetcode.com/anshika-kamboj/)
 
 ---
 
@@ -37,7 +37,7 @@ I enjoy solving algorithmic problems to improve my coding skills.
 
 ## Contact Me
 
-- **Email**: [your-email@example.com](mailto:your-kambojanshika30@gmail.com)
+- **Email**: [kambojanshika30@gmail.com](mailto:your-kambojanshika30@gmail.com)
 - **GitHub Pages**: [Visit My Portfolio](https://anshika-kamboj.github.io/Anshika-Profile/)
 
 ---
